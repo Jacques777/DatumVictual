@@ -1,0 +1,18 @@
+.logo {
+    color:yellow;
+justify-content: center;
+}
+.center {
+    display: flex;
+    justify-content: center;
+  }   
+
+
+.myh1 {
+    font-weight: bolder;
+    
+    justify-content: center;
+    
+}
+
+
