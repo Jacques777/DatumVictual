@@ -1,6 +1,5 @@
 
-"@angular/cli”: “~11.0.5”,
-"@angular/compiler-cli": "~11.0.5",
+
 
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
